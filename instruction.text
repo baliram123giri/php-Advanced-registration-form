@@ -1,0 +1,4 @@
+
+$_* = Super Global variables
+$_SERVER['PHP_SELF']
+$bali['key] = Associative Array
